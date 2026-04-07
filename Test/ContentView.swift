@@ -13,7 +13,7 @@ struct ContentView: View {
         ZStack{
             Color(.systemMint).ignoresSafeArea()
             VStack(alignment: .leading, spacing:20.0) {
-                Image("niagara falls")
+                Image("niagara fallshi")
                     .resizable()
                     .cornerRadius(20)
                     .aspectRatio(contentMode: .fit)
